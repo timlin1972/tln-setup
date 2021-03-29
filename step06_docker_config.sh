@@ -4,4 +4,5 @@ sudo groupadd docker
 sudo usermod -aG docker $USER
 newgrp docker
 
-docker run hello-world
+echo "Please restart image"
+# docker run hello-world
