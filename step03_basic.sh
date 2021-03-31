@@ -11,4 +11,5 @@ sudo apt install pkg-config -y
 sudo apt install binutils-arm-linux-gnueabihf -y
 sudo apt install vim -y
 sudo apt install libncurses-dev -y
-
+sudo apt install meld -y
+sudo snap install postman -y
