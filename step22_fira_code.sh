@@ -2,6 +2,7 @@
 
 sudo apt install fonts-firacode
 
+echo -e "\n"
 echo "\"editor.fontFamily\": \"'Fira Code'\","
 echo "\"editor.fontLigatures\": true"
 
